@@ -1,0 +1,16 @@
+{
+  "name": "Amit Traders & Construction",
+  "short_name": "Amit Traders",
+  "description": "Construction materials and delivery in Hamirpur",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
