@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Host
+Host: https://atc-constructions.vercel.app
+
+# Sitemap
+Sitemap: https://atc-constructions.vercel.app/sitemap.xml
